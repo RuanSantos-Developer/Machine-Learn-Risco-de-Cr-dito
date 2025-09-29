@@ -31,4 +31,4 @@ from sklearn.metrics import classification_report, confusion_matrix, ConfusionMa
 ---
 
 ## 📧 Contato
-Ruan Oliveira dos Santos – LinkedIn: www.linkedin.com/in/ruan-santos-780442218 – Emailruan.oliveira.profissional@gmail.com
+Ruan Oliveira dos Santos – LinkedIn: www.linkedin.com/in/ruan-santos-780442218 – Email: ruan.oliveira.profissional@gmail.com
