@@ -8,8 +8,8 @@
 ## 📋 Sobre
 
 - O projeto resolve o problema de avaliar o risco de crédito de uma pessoa antes de conceder um empréstimo ou financiamento.
-- Utilizei o modelo de árvore de Decisão -- [Modelo](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
-- Fonte dos dados -- [Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).  
+- Utilizei o modelo de árvore de Decisão - [Modelo](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+- Fonte dos dados - [Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).  
 
 ---
 
@@ -31,4 +31,4 @@ from sklearn.metrics import classification_report, confusion_matrix, ConfusionMa
 ---
 
 ## 📧 Contato
-Ruan Oliveira dos Santos – [LinkedIn](www.linkedin.com/in/ruan-santos-780442218) – [Email](mailto:ruan.oliveira.profissional@gmail.com)
+Ruan Oliveira dos Santos – LinkedIn: www.linkedin.com/in/ruan-santos-780442218 – Emailruan.oliveira.profissional@gmail.com
